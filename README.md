@@ -1,4 +1,4 @@
-# Foobar
+# Solution
 
 Solution for A problem statement
 
@@ -21,25 +21,12 @@ Solution for A problem statement
   http://127.0.0.1:8000/docs#/default/
   ```
   
-## Usage
+## Usage Solution
 
-```python
-import foobar
+### For solution 1
+You can try out the API or Swagger UI to test it.
+input data is data.json and output file is out.csv
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+### For solution 2
+You can try out the API or Swagger UI to test it.
+input data is out.csv.
