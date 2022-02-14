@@ -1,0 +1,7 @@
+[
+  "test_main.py::test_sol1_data_io_size",
+  "test_main.py::test_sol1_input_field",
+  "test_main.py::test_sol1_json_file_present",
+  "test_main.py::test_sol2_data_io_size",
+  "test_main.py::test_sol2_input_field"
+]

@@ -1,0 +1,7 @@
+BMI Category,BMI max (kg/m2),Health risk
+Underweight,18.4,Malnutrition risk
+Normal weight,24.9,Low risk
+Overweight,29.9,Enhanced risk
+Moderately obese,34.9,Medium risk
+Severely obese,39.9,High risk
+Very severely obese,100,Very high risk

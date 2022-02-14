@@ -1,0 +1,13 @@
+certifi==2021.10.8
+llvmlite==0.38.0
+locket==0.2.1
+numpy==1.21.5
+PyYAML==6.0
+wincertstore==0.2
+black
+fastapi
+pytest
+pandas
+ijson
+uvicorn
+requests
